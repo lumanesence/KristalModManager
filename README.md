@@ -7,6 +7,14 @@ My reason for making this is very simple, actually. To install a mod with Krista
 ## When is it releasing?
 Currently, I'm still heavily working on it inbetween my college studies, but I'm projecting for a release of February or March 2026, since I want this to be perfect. However, pre-release versions will be available from January 15th onwards on GitHub
 
+## Confirmed dependencies
+* pygame
+* os
+* tkinter (including filedialog and simpledialog)
+* shutil
+* sys
+* json
+
 ## Credits
 * KristalModManager: Me! (Lumanesence)
 * Kristal Engine: https://kristal.cc
