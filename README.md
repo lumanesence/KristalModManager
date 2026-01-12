@@ -10,7 +10,7 @@ Currently, I'm still heavily working on it inbetween my college studies, but I'm
 ## Confirmed dependencies
 * pygame
 * os
-* tkinter (including filedialog and simpledialog)
+* tkinter, referred to as just tk (including filedialog and simpledialog)
 * shutil
 * sys
 * json
@@ -18,3 +18,5 @@ Currently, I'm still heavily working on it inbetween my college studies, but I'm
 ## Credits
 * KristalModManager: Me! (Lumanesence)
 * Kristal Engine: https://kristal.cc
+
+*Copyright 2025 The OneLyte Association - All Rights Reserved*
