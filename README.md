@@ -25,6 +25,6 @@ Currently, I'm still heavily working on it inbetween my college studies, and due
 ## Disclaimers
 * KristalModManager is in no way associated with the Kristal developers and is purely a fan project
 * Editing mods using the "Fill In" function has the possibility to break a mod in it's entirety, which will require it to be reinstalled
-* This software is provided as-is with no warranties or guarantees
+* This software is licensed under the MIT License. You may modify and redistribute these files if credit is provided, but is provided as-is with no warranties or guarantees
 
 *Copyright 2025 The OneLyte Association - All Rights Reserved*
