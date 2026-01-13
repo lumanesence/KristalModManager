@@ -1,5 +1,5 @@
 # KristalModManager
-A super simple mod manager for the Kristal DELTARUNE engine written in Python, with support for installing, uninstalling and viewing installed mods
+A super simple mod manager for the Kristal DELTARUNE engine written in Python, with support for installing, uninstalling, viewing and editing the metadata installed mods
 
 ## Why bother?
 My reason for making this is very simple, actually. To install a mod with Kristal, you need to go into your device's AppData Roaming folder, then place the mod right in there. Understandably, some people don't know their way around the Windows filesystem, and that's okay! Thats why this exists, to make it easier for you to manage your installed Kristal mods and even install new ones if you want to!
@@ -21,5 +21,10 @@ Currently, I'm still heavily working on it inbetween my college studies, and due
 ## Credits
 * KristalModManager: Me! (Lumanesence)
 * Kristal Engine: https://kristal.cc
+
+## Disclaimers
+* KristalModManager is in no way associated with the Kristal developers and is purely a fan project
+* Editing mods using the "Fill In" function has the possibility to break a mod in it's entirety, which will require it to be reinstalled
+* This software is provided as-is with no warranties or guarantees
 
 *Copyright 2025 The OneLyte Association - All Rights Reserved*
