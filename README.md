@@ -15,6 +15,8 @@ Currently, I'm still heavily working on it inbetween my college studies, but I'm
 * sys
 * json
 
+**Don't worry!** If you do not have Pygame installed already, the script will install it for you; thats how simple this is, you don't have to worry about that!
+
 ## Credits
 * KristalModManager: Me! (Lumanesence)
 * Kristal Engine: https://kristal.cc
