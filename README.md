@@ -8,6 +8,7 @@ My reason for making this is very simple, actually. To install a mod with Krista
 Currently, I'm still heavily working on it inbetween my college studies, and due to recent shake-ups regarding my GCSE retakes, I have no projection for a release date. The same goes for pre-releases, although you may get a few of those dotted around
 
 ## Confirmed dependencies
+* [Python 3 or later](https://www.python.org/) - Temporary until I can get Pyinstaller working
 * pygame
 * os
 * tkinter, referred to as just tk (including filedialog and simpledialog)
