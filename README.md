@@ -5,7 +5,7 @@ A super simple mod manager for the Kristal DELTARUNE engine written in Python, w
 **Why not?** - My reason for making this is very simple, actually. To install a mod with Kristal, you need to go into your device's AppData Roaming folder, then place the mod right in there. Understandably, some people don't know their way around the Windows filesystem, meaning they usually refrain from going in there, and that's okay! Thats why this exists, to make it easier for you to manage your installed Kristal mods and even install new ones if you want to!
 
 ## When is it releasing?
-Currently, I'm still heavily working on it inbetween my college studies, and due to recent shake-ups regarding my GCSE retakes, I have no projection for a release date. The same goes for pre-releases, although you may get a few of those dotted around
+Currently, I'm still heavily working on it inbetween my college studies, and due to recent shake-ups regarding my GCSE retakes, I have no projection for a release date. The same goes for pre-releases, although you may get a few of those dotted around. If you want updates on it's development however, check out my Infocentre on Discord where project updates will be posted: https://discord.gg/XZNxe8tfaX
 
 ## Confirmed dependencies
 * [Python 3 or later](https://www.python.org/) - Temporary until I can get Pyinstaller working
