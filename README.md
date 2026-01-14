@@ -30,7 +30,7 @@ Currently, I'm still heavily working on it inbetween my college studies, and due
 ## Credits
 * KristalModManager: Me! (Lumanesence)
 * Kristal Engine: https://kristal.cc
-* BGM: [frozy808 - supido](https://open.spotify.com/track/0iTrYSvCB4NDvQR3DsFt6T?si=5eda1649540842a9)
+* BGM: Central Independent Television - Central Fanatasia (1982 Edition)
 
 ## Disclaimers
 * KristalModManager is in no way associated with the Kristal developers and is purely a fan project
