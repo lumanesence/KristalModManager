@@ -1,12 +1,16 @@
 # KristalModManager
-A super simple mod manager for the Kristal DELTARUNE engine written in Python, with support for installing, uninstalling, viewing and editing the metadata installed mods, as well as providing a system to load and run Kristal right from there, makinG it an all-in-one solution for both managing mods and opening Kristal!
+A super simple mod manager for the Kristal DELTARUNE engine written in Python, with support for installing, uninstalling, viewing and editing the metadata installed mods, as well as providing a system to load and run Kristal right from there (to be added), making it an all-in-one solution for both managing mods and opening Kristal!
+
+## The Featureset
+* Install new Kristal mods through a local .zip file or via a URL!
+* View, delete and fill in missing information on your current mods! (might break them in some rare cases)
+* Load Kristal without needing to locate it every single time!
 
 ## Why bother?
 **Why not!** - My reason for making this is very simple, actually. To install a mod with Kristal, you need to go into your device's AppData Roaming folder, then place the mod right in there. Understandably, some people don't know their way around the Windows filesystem, meaning they usually refrain from going in there, and that's okay! Thats why this exists, to make it easier for you to manage your installed Kristal mods and even install new ones if you want to!
 
 ## Does it actually work?
 **Yes, it does!** - the way it works is by unzipping the mod directly into your Kristal directory in your AppData folder, which will make the mod accessible from within Kristal! As for deleting, it deletes the mod folder from your Kristal directory in a near-instant[1], making it easy to both delete and install mods! [Click here for a demonstration video!](https://youtu.be/ANHZu-uf60Q)
-
 
 ## When is it releasing?
 Currently, I'm still heavily working on it inbetween my college studies, and due to recent shake-ups regarding my GCSE retakes, I have no projection for a release date. The same goes for pre-releases, although you may get a few of those dotted around. If you want updates on it's development however, check out my Infocentre on Discord where project updates will be posted: https://discord.gg/XZNxe8tfaX
