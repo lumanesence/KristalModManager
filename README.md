@@ -16,14 +16,8 @@ A super simple mod manager for the Kristal DELTARUNE engine written in Python, w
 Currently, I'm still heavily working on it inbetween my college studies, and due to recent shake-ups regarding my GCSE retakes, I have no projection for a release date. The same goes for pre-releases, although you may get a few of those dotted around. If you want updates on it's development however, check out my Infocentre on Discord where project updates will be posted: https://discord.gg/XZNxe8tfaX
 
 ## Confirmed dependencies
-* [Python 3 or later](https://www.python.org/) - Temporary until I can get Pyinstaller working
 * pygame
-* os
-* tkinter, referred to as just tk (including filedialog and simpledialog)
-* shutil
-* sys
-* json
-* time
+
 
 **Don't worry!** If you *do not* have Pygame installed already, the script will install it for you; thats how simple this is, you don't have to worry about that!
 
