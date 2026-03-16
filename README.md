@@ -30,7 +30,7 @@ Currently, I'm still heavily working on it inbetween my college studies, and due
 * KristalModManager is in no way associated with the Kristal developers and is purely a fan project
 * Editing mods using the "Fill In" function has the possibility to break a mod in it's entirety, which will require it to be reinstalled
 * This software is licensed under the MIT License. You may modify and redistribute these files **if credit is provided**, but is provided as-is with no warranties or guarantees. All later iterations not made by me must be licensed under the MIT License regardless of how transformative your changes are.
-* KristalModManager only works on Windows-based systems with x64, x86 and Arm64. Mac and Linux versions are not planned at ths time
+* KristalModManager only works on Windows-based systems with x64, x86 and Arm64 based CPU's. Mac and Linux versions are not planned at ths time
 
 *Copyright 2025 The OneLyte Association - All Rights Reserved*
 
