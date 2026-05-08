@@ -23,7 +23,7 @@ Currently, I'm still heavily working on it inbetween my college studies, and due
 ## Credits
 * KristalModManager: Me! (Lumanesence)
 * Kristal Engine: https://kristal.cc
-* BGM: Central Independent Television - Central Fanatasia (1982 Edition)
+* BGM: Lumanesence! - Late Nights
 
 ## Disclaimers
 * KristalModManager is in no way associated with the Kristal developers and is purely a fan project
