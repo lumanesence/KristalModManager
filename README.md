@@ -12,7 +12,7 @@ A super simple mod manager for the Kristal DELTARUNE engine written in Python, w
 ## Does it actually work?
 **Yes, it does!** - the way it works is by unzipping the mod directly into your Kristal directory in your AppData folder, which will make the mod accessible from within Kristal! As for deleting, it deletes the mod folder from your Kristal directory in a near-instant[1], making it easy to both delete and install mods! 
 ## When is it releasing?
-Currently, I'm still heavily working on it inbetween my college studies, and due to recent shake-ups regarding my GCSE retakes, I have no projection for a release date. The same goes for pre-releases, although you may get a few of those dotted around. If you want updates on it's development however, check out my Infocentre on Discord where project updates will be posted: https://discord.gg/XZNxe8tfaX
+Currently, I'm still heavily working on it inbetween my college studies, and due to recent shake-ups regarding my GCSE retakes, I have no projection for a release date. HOWEVER, there is a pre-release version for you to download and try out! Check it out and report anything you find to the Issues tab! :D
 
 ## Confirmed dependencies
 * pygame
