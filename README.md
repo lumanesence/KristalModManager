@@ -1,3 +1,6 @@
+> [!TIP]
+> You can now download KristalModManager from itch.io! https://lumadotini.itch.io/kristalmodmanager
+
 # KristalModManager
 A super simple mod manager for the Kristal DELTARUNE engine written in Python, with support for installing, uninstalling, viewing and editing the metadata installed mods, as well as providing a system to load and run Kristal right from there (to be added), making it an all-in-one solution for both managing mods and opening Kristal!
 
